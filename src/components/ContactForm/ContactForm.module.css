@@ -1,0 +1,30 @@
+.input{
+    display: block;
+    width: 240px;
+    height: 30px;
+    margin: 2px;
+    background-color: rgb(67, 230, 230);
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.label{
+    font-size: 20px;
+}
+
+.button{
+    margin-top: 10px;
+    margin-left: 3px;
+    padding: 7px;
+    background-color: rgb(67, 230, 230);
+        border: none;
+        border-radius: 5px;
+        color: rgb(255, 255, 255);
+        font-size: 16px;
+}
+
+.button:hover, button:focus{
+    background-color: rgb(5, 141, 253);
+}
